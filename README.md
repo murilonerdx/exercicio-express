@@ -1,2 +1,6 @@
 # exercicio-express
- Testando Express
+## Testar API
+
+Para rodar api
+
+### `yarn start`
